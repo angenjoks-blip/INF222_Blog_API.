@@ -36,6 +36,7 @@ Figure 6 : Navigation dans les sections
 Technologies : Node.js, MongoDB, Swagger.
 Endpoints : POST, GET, PUT, DELETE pour gérer les articles.
 Lien GitHub : https://github.com/angenjoks-blip/INF222_Blog_API./blob/main/server.js
+
       Partie 3 : Analyse critique
       
 Points forts : simplicité, organisation.
@@ -43,4 +44,4 @@ Points faibles : dépendance internet.
 Améliorations : plus de pratique.
            Conclusion
            
-Ce travail m’a permis de comprendre les bases du backend et l’utilisation de CleeRoute
+Ce travail m’a permis de comprendre les bases du backend et l’utilisation de CleeRoute et de developper mes capacites à realiser des API simples et efficaces.
