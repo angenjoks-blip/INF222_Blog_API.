@@ -45,3 +45,5 @@ Améliorations : plus de pratique.
            Conclusion
            
 Ce travail m’a permis de comprendre les bases du backend et l’utilisation de CleeRoute et de developper mes capacites à realiser des API simples et efficaces.
+
+https://www.linkedin.com/in/ange-elisabeth-mandone-messina-njoki-5834763b5?trk=contact-info
